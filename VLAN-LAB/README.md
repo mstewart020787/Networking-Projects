@@ -60,7 +60,7 @@ These are the subinterfaces for the router
 
 ##  Testing
 
-To test the inter-VLAN connectivity, tracert was used to ping PC 8 to PC 1 (VLAN 20 to VLAN 10).
+To test the inter-VLAN connectivity, **tracert** was used to ping PC 8 to PC 1 (VLAN 20 to VLAN 10).
 
 
 
