@@ -22,7 +22,7 @@ Furthermore, the company occupies two floors of an office building. Each floor h
 ##  Topology Overview
 
 
-![Topology Diagram](Networking-Projects/VLAN-LAB/topology.png)
+![Topology Diagram](VLAN-LAB/topology.png)
 
 
 
