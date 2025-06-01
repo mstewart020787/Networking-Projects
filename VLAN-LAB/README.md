@@ -21,6 +21,11 @@ Furthermore, the company occupies two floors of an office building. Each floor h
 
 ##  Topology Overview
 
+
+![Topology Diagram](Networking-Projects/VLAN-LAB/topology.png)
+
+
+
 - 3 VLANs (HR, IT, Sales)
 - 1 Router, 2 Switches, and 9 PCs
 - Router-on-a-Stick used for inter-VLAN routing
