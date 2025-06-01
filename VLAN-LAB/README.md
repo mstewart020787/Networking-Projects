@@ -4,12 +4,27 @@ This project involved the configuration of a fictional small office network usin
 
 ---
 
+##  Scenario Overview
+
+I was tasked with designing and configuring the network for a small business with three departments:
+
+- HR
+- IT
+- Sales
+
+Furthermore, the company occupies two floors of an office building. Each floor has a switch, and departments are spread as follows:
+
+- Floor 1: HR and IT
+- Floor 2: Sales and IT
+
+---
+
 ##  Topology Overview
 
-- **3 VLANs** (HR, IT, Sales)
-- **1 Router**, **3 Switches**, and **9 PCs**
-- **Router-on-a-Stick** used for inter-VLAN routing
-- **/29 subnetting** applied to each VLAN
+- 3 VLANs (HR, IT, Sales)
+- 1 Router, 2 Switches, and 9 PCs
+- Router-on-a-Stick used for inter-VLAN routing
+- /29 subnetting applied to each VLAN
 
 
 ## Topology 
